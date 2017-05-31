@@ -18,5 +18,8 @@
   "homepage": "https://github.com/fgfg163/simple-page#readme",
   "devDependencies": {
     "web-server-cli": "^2.0.1"
+  },
+  "dependencies": {
+    "react": "^15.5.4"
   }
 }
