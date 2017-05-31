@@ -1,0 +1,22 @@
+{
+  "name": "simple-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgfg163/simple-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgfg163/simple-page/issues"
+  },
+  "homepage": "https://github.com/fgfg163/simple-page#readme",
+  "devDependencies": {
+    "web-server-cli": "^2.0.1"
+  }
+}
